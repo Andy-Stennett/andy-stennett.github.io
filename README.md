@@ -19,6 +19,19 @@ So, the mission, apart from producing a first project, is to help a friend out a
 The food photos were taken by her. I haven't tried the recipes yet.
 
 Basically everything goes on from the landing page, with links to the about and recipe pages. I'll be honest, I don't know what her main strength is, so the website could develop in different directions as time goes on, with either more foodie items or yoga pictures.
+First page
+
+![image](https://github.com/Andy-Stennett/andy-stennett.github.io/assets/83307633/acfcfb02-e936-4830-979e-2e9aab20e73d)
+As you can see there are links to the other two pages, the About page:
+
+![image](https://github.com/Andy-Stennett/andy-stennett.github.io/assets/83307633/9711c6c3-4cad-4533-8913-93bdbf436096)
+
+And the recipes page
+
+![image](https://github.com/Andy-Stennett/andy-stennett.github.io/assets/83307633/20f58659-b9ff-42b5-9ea9-ea4c8050205b)
+
+
+
 
 These files were originally developed with Notepad as Codeanywhere wasn't working and I had to get something down on paper, so to speak. I've since downloaded and am using Visual Studio for windows but the downside is that the versions are not recorded in Github, only the latest files as I upload them. This isn't a great solution but it's all I have at present. At least VS allows me to speed up the workflow.
 Issues that aren't fixed.
