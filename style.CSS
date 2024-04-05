@@ -8,7 +8,6 @@ body {
 .left-box
 {
 	width:50vw;
-	background-color:rgb(38, 56, 66);
 }
 
 .right-box
@@ -114,7 +113,7 @@ legend {
 
 .about
 {
-	background-color:rgba(110, 100, 100);
+	background-color:rgb(38, 56, 66);
 	font-weight:bold;
 }
 .about >h3
