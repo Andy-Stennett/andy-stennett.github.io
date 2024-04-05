@@ -3,7 +3,7 @@ Repository for first project files
 
 April 5th 08:58
 Latest and last updates are added to the files in the repository. To run it locally, will need :
-work in progress frontpage.html,
+work in progress frontpage.html, changes reflect the name change to index.html as required.
 about.html,
 recipes.html,
 style.css,
