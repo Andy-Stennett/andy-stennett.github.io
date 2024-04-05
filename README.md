@@ -39,6 +39,6 @@ These files were originally developed with Notepad as Codeanywhere wasn't workin
 Issues that aren't fixed.
 
 Issues and possible improvements.
-There seems to be an issue with one of the pages in that the formattinf styled by style.css isn't working. I haven't been able to figure out why yet. It did work, now it doesn't 
+There seems to be an issue with one of the pages in that the formatting styled by style.css isn't working. I haven't been able to figure out why yet. It did work, now it doesn't 
 On the about and recipe pages there is an awful lot of white space at the bottom which I haven't been able to shrink as yet. Other than that it seems to work ok. It's not loaded with frilly bits, there are more recipes to add, as well as her yoga poses which I will shoot outdoors when weather improves. Some code snippets I have discovered on the W3 website, and colour codes from the links supplied in the course. The links code in the contact section I took from the coffehouse pages, although they were altered in part to suit the user (Eliza). There may still be other snippets in the code from the same source, but it's all pretty generic. 
 
